@@ -1,0 +1,271 @@
+{
+    "elearning": [
+        {
+            "level": 1,
+            "title": "Post Malone, Swae Lee - Sunflower (Spider-Man: Into the Spider-Verse)",
+            "description": "Sunflower is the #1 hit-single from the official soundtrack album Spider-Man™: Into the Spider-Verse..",
+            "video": "https://youtu.be/ApXoWvfEYVU?si=g7JlxoMZlfqknfi_",
+            "time": "2026-01-10",
+            "id": 1
+        },
+        {
+            "level": 1,
+            "title": "MARVEL'S SPIDER-MAN: Miles Morales PS5",
+            "description": "MARVEL'S SPIDER-MAN: Miles Morales PS5",
+            "video": "https://youtu.be/k48c936O1h0?si=28P-rEmJoorcSu_L",
+            "time": "2026-01-15",
+            "id": 2
+        },
+        {
+            "level": 2,
+            "title": "PRAGMATA - Part 1",
+            "description": "HEARTROCKER PRAGMATA - Part 1",
+            "video": "https://youtu.be/73ywi9Tjuw4?si=or1APmpyw5Zm7DKM",
+            "time": "2026-02-05",
+            "id": 3
+        },
+        {
+            "level": 2,
+            "title": "Silent Hill f - Part 1",
+            "description": "HEARTROCKER Silent Hill f - Part 1.",
+            "video": "https://youtu.be/sw6g6g4hm4Y?si=afkKrnhezNIQ5x9t",
+            "time": "2026-02-12",
+            "id": 4
+        },
+        {
+            "level": 3,
+            "title": "Death Stranding 2 - part 1",
+            "description": "HEARTROCKER Death Stranding 2 - part 1",
+            "video": "https://youtu.be/PWiCPZlhlF8?si=-c0ZuGUlvlqjfeDk",
+            "time": "2026-03-03",
+            "id": 5
+        },
+        {
+            "level": 3,
+            "title": "Clair Obscur: Expedition 33 - Part 1",
+            "description": "HEARTROCKER Clair Obscur: Expedition 33 - Part 1",
+            "video": "https://youtu.be/vTrke0rrUgc?si=wqkMc_Uzn8f6m-Lb",
+            "time": "2026-03-10",
+            "id": 6
+        },
+        {
+            "level": 4,
+            "title": "INTO THE DEAD: Our Darkest Days - Part 1",
+            "description": "HEARTROCKER INTO THE DEAD: Our Darkest Days - Part 1.",
+            "video": "https://youtu.be/rktK0fkURsE?si=EYZN45z2iil51XuR",
+            "time": "2026-04-01",
+            "id": 7
+        },
+        {
+            "level": 4,
+            "title": "Hogwarts Legacy - Part 1",
+            "description": "HEARTROCKER Hogwarts Legacy - Part 1.",
+            "video": "https://youtu.be/W14qntl8ir0?si=lyLTcqS7gJU-ilQ6",
+            "time": "2026-04-08",
+            "id": 8
+        }
+    ],
+    "examResults": [
+        {
+            "username": "user1",
+            "level": 1,
+            "score": 40,
+            "result": "failed",
+            "time": "2026-01-10"
+        },
+        {
+            "username": "user2",
+            "level": 2,
+            "score": 52,
+            "result": "failed",
+            "time": "2026-02-11"
+        },
+        {
+            "username": "user2",
+            "level": 3,
+            "score": 70,
+            "result": "pass",
+            "time": "2026-03-12"
+        },
+        {
+            "username": "admin",
+            "level": 3,
+            "score": 64,
+            "result": "failed",
+            "time": "2026-04-13"
+        },
+        {
+            "username": "danaipanyawong",
+            "level": 1,
+            "score": 61,
+            "result": "pass",
+            "time": "2026-05-14"
+        },
+        {
+            "username": "danaipanyawong",
+            "level": 2,
+            "score": 79,
+            "result": "pass",
+            "time": "2026-06-15"
+        },
+        {
+            "username": "manoplekawatana",
+            "level": 2,
+            "score": 73,
+            "result": "pass",
+            "time": "2026-01-16"
+        },
+        {
+            "username": "lamaisombat",
+            "level": 3,
+            "score": 85,
+            "result": "pass",
+            "time": "2026-02-17"
+        },
+        {
+            "username": "lamaisombat",
+            "level": 1,
+            "score": 47,
+            "result": "failed",
+            "time": "2026-03-18"
+        },
+        {
+            "username": "fahchaiwat",
+            "level": 1,
+            "score": 41,
+            "result": "failed",
+            "time": "2026-04-19"
+        },
+        {
+            "username": "kamonmuangkaew",
+            "level": 2,
+            "score": 53,
+            "result": "failed",
+            "time": "2026-05-20"
+        },
+        {
+            "username": "kamonmuangkaew",
+            "level": 3,
+            "score": 71,
+            "result": "pass",
+            "time": "2026-06-21"
+        },
+        {
+            "username": "jariyanaewsakul",
+            "level": 3,
+            "score": 65,
+            "result": "failed",
+            "time": "2026-01-22"
+        },
+        {
+            "username": "chanidasuksai",
+            "level": 1,
+            "score": 62,
+            "result": "pass",
+            "time": "2026-02-23"
+        },
+        {
+            "username": "chanidasuksai",
+            "level": 2,
+            "score": 80,
+            "result": "pass",
+            "time": "2026-03-24"
+        },
+        {
+            "username": "maleeyasothorn",
+            "level": 2,
+            "score": 74,
+            "result": "pass",
+            "time": "2026-04-10"
+        },
+        {
+            "username": "ubonganjanapan",
+            "level": 3,
+            "score": 86,
+            "result": "pass",
+            "time": "2026-05-11"
+        },
+        {
+            "username": "ubonganjanapan",
+            "level": 1,
+            "score": 48,
+            "result": "failed",
+            "time": "2026-06-12"
+        }
+    ],
+    "levelInfo": [
+        {
+            "level": 1,
+            "title": "Beginner",
+            "description": "Build a foundation in using computers, the internet, and everyday digital tools.",
+            "benefits": [
+                "Access essential learning content to build your basic knowledge and skills.",
+                "Earn your Beginner Badge after completing your first level.",
+                "Access essential services designed for new users.",
+                "Track your learning progress and monitor your achievements."
+            ],
+            "services": [
+                "Basic Service Registration — Register and manage basic services available to new users.",
+                "Learning Resource Access — Access essential learning materials for your current level.",
+                "Progress Tracking — View your learning progress and current level status."
+            ],
+            "criteria": 60
+        },
+        {
+            "level": 2,
+            "title": "Explorer",
+            "description": "Learn to recognize and defend against common cyber threats such as phishing, malware, and weak passwords.",
+            "benefits": [
+                "Access advanced learning content to expand your knowledge and skills.",
+                "Earn your Explorer Badge by successfully completing Level 2.",
+                "Unlock additional services and opportunities available to Explorer members.",
+                "Access additional learning resources to support your continued development.",
+                "Track your progress and achievements as you advance through levels."
+            ],
+            "services": [
+                "Advanced Service Registration — Register for additional services available to Level 2 users.",
+                "Learning Resource Library — Access a wider range of learning materials and resources.",
+                "Achievement Tracking — View your progress, badges, and completed achievements."
+            ],
+            "criteria": 65
+        },
+        {
+            "level": 3,
+            "title": "Advanced",
+            "description": "Dive deeper into personal data management, privacy law (PDPA), and responsible data handling.",
+            "benefits": [
+                "Access advanced learning resources designed to develop your expertise further.",
+                "Earn your Advanced Badge after successfully completing Level 3.",
+                "Unlock premium content available exclusively to Advanced members.",
+                "Receive priority access to selected services and opportunities.",
+                "Access exclusive learning materials for deeper knowledge and development."
+            ],
+            "services": [
+                "Premium Service Access — Access premium services available exclusively to advanced users.",
+                "Advanced Resource Center — Explore advanced materials and specialized learning resources.",
+                "Priority Service Booking — Get priority access when booking selected services."
+            ],
+            "criteria": 70
+        },
+        {
+            "level": 4,
+            "title": "Expert",
+            "description": "The top tier of the program, reached automatically after passing the Level 3 exam. No exam is required at this level.",
+            "benefits": [
+                "Get full access to all services available across the platform.",
+                "Earn your Expert Badge as recognition of your highest achievement.",
+                "Unlock exclusive content designed for experienced and advanced users.",
+                "Receive priority support whenever you need assistance with our services.",
+                "Access expert-level learning resources to further develop your expertise.",
+                "Unlock exclusive services available only to Expert members."
+            ],
+            "services": [
+                "Full Service Access — Access all services available across the CAMT Passport platform.",
+                "Exclusive Expert Services — Access specialized services designed specifically for Expert users.",
+                "Priority Support Service — Receive priority assistance and support when using the platform."
+            ],
+            "criteria": 0
+        }
+    ]
+    
+}
