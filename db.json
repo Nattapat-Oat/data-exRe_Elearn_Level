@@ -165,7 +165,7 @@
     ],
     "levelInfo": [
         {
-            "level": 1,
+            "id": 1,
             "title": "Beginner",
             "description": "Build a foundation in using computers, the internet, and everyday digital tools.",
             "benefits": [
@@ -182,7 +182,7 @@
             "criteria": 60
         },
         {
-            "level": 2,
+            "id": 2,
             "title": "Explorer",
             "description": "Learn to recognize and defend against common cyber threats such as phishing, malware, and weak passwords.",
             "benefits": [
@@ -200,7 +200,7 @@
             "criteria": 65
         },
         {
-            "level": 3,
+            "id": 3,
             "title": "Advanced",
             "description": "Dive deeper into personal data management, privacy law (PDPA), and responsible data handling.",
             "benefits": [
@@ -218,7 +218,7 @@
             "criteria": 70
         },
         {
-            "level": 4,
+            "id": 4,
             "title": "Expert",
             "description": "The top tier of the program, reached automatically after passing the Level 3 exam. No exam is required at this level.",
             "benefits": [
